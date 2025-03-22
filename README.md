@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Michał</h1>
 <h3 align="center">I'm a Computer engineering student that is passionate about ML and currently working in Data Science</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michallejza" alt="michallejza" /></a> </p>
-
 - 🔭 I’m currently working on **Image Recognition**
 
-- 👨‍💻 All of my projects are available in my repositories
+- 👨‍💻 All of my projects are available in [my repositories](my repositories)
 
 - 📫 How to reach me **m01lejza@gmail.com**
 
